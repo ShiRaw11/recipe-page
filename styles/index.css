@@ -29,13 +29,13 @@ body {
 
 .container p {
   font-family: "Outfit";
-  font-size: 14px;
+  font-size: 15px;
   font-weight: 400;
   padding-bottom: 16px;
   color: #5f564e;
 }
 
-.tit {
+.recipe-title {
   font-family: "Young Serif";
   font-size: 32px;
   font-weight: 400;
@@ -58,7 +58,7 @@ body {
 .prep-title {
   font-size: 14px;
   font-family: "Outfit";
-  font-weight: 600;
+  font-weight: 700;
 }
 .list-prep {
   list-style-type: disc;
@@ -68,6 +68,7 @@ body {
   margin-top: 10px;
   font-size: 14px;
   font-family: "Outfit";
+  padding-left: 16px;
 }
 
 .list-prep li::marker {
@@ -87,10 +88,12 @@ body {
 
 .list-ingredients li::marker {
   color: #854532;
+  
 }
 
 .list-ingredients li {
   margin: 8px 0px;
+  padding-left: 16px;
 }
 
 .heading {
@@ -110,8 +113,12 @@ body {
   margin-bottom: 10px;
   font-family: "Outfit";
   font-size: 14px;
+  padding-left: 16px;
 }
-
+.instructions li::marker {
+    color: #854532;
+    
+  }
 .step-title {
 font-family: "Outfit";
   font-weight: 700;
