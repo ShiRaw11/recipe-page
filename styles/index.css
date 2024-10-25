@@ -126,7 +126,9 @@ font-family: "Outfit";
 }
 
 hr {
-  margin: 16px 0px;
+  margin: 24px 0px;
+  color: #f3e5d7
+  ;
 }
 .nutrition {
   font-family: "Outfit";
