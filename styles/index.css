@@ -9,12 +9,12 @@ body {
   justify-content: center;
   align-items: center;
   min-height: 100vh; 
-  padding: 40px 0; 
+  padding: 50px 0; 
   background-color: #f3e5d8;
 }
 
 .card {
-  max-width: 600px;
+  max-width: 650px;
   padding: 24px;
   border-radius: 20px;
   background-color: white;
@@ -29,7 +29,7 @@ body {
 
 .container p {
   font-family: "Outfit";
-  font-size: 15px;
+  font-size: 16px;
   font-weight: 400;
   padding-bottom: 16px;
   color: #5f564e;
@@ -44,7 +44,7 @@ body {
 }
 .preparation {
   background-color: #fff4f9;
-  padding: 24px;
+  padding: 30px;
   max-width: 100%;
   border-radius: 5px;
 }
@@ -66,7 +66,7 @@ body {
 }
 .list-prep li {
   margin-top: 10px;
-  font-size: 14px;
+  font-size: 16px;
   font-family: "Outfit";
   padding-left: 16px;
 }
@@ -83,7 +83,7 @@ body {
   padding-left: 20px;
   color: #5f564e;
   font-family: "Outfit";
-  font-size: 14px;
+  font-size: 16px;
 }
 
 .list-ingredients li::marker {
@@ -92,7 +92,7 @@ body {
 }
 
 .list-ingredients li {
-  margin: 8px 0px;
+  margin: 12px 0px;
   padding-left: 16px;
 }
 
@@ -110,9 +110,9 @@ body {
 }
 
 .instructions li {
-  margin-bottom: 10px;
+  margin-bottom: 12px;
   font-family: "Outfit";
-  font-size: 14px;
+  font-size: 16px;
   padding-left: 16px;
 }
 .instructions li::marker {
@@ -132,7 +132,7 @@ hr {
 }
 .nutrition {
   font-family: "Outfit";
-  font-size: 14px;
+  font-size: 16px;
 }
 .nutrition p {
   margin-top: 16px;
@@ -150,7 +150,7 @@ hr {
 
 .nutrition-table td.highlight {
   font-weight: bold;
-  color: #a11d33;
+  color: #854532;;
   padding-left: 20px;
 }
 
